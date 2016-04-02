@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Most awesome browser!</string>
+    <string name="title_webpage_detail">Rendered webpage</string>
+</resources>
